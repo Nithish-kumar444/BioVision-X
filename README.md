@@ -42,7 +42,7 @@ Interactive healthcare dashboard displaying prediction details and downloadable 
 
 ---
 
-## 🏠 Home Page
+## 🏠 Input Image
 The homepage allows users to upload MRI images and start tumor analysis through an AI-powered healthcare interface.
 
 <img width="100%" src="Images/Input.png">
