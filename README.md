@@ -33,6 +33,15 @@ BioVision-X is an advanced AI-powered healthcare application designed to analyze
 
 # 🖥️ Website / Dashboard Preview
 
+---
+
+## 👨‍⚕️ Dashboard
+Interactive healthcare dashboard displaying prediction details and downloadable reports.
+
+<img width="100%" src="Images/Dashboard.png">
+
+---
+
 ## 🏠 Home Page
 The homepage allows users to upload MRI images and start tumor analysis through an AI-powered healthcare interface.
 
@@ -54,10 +63,10 @@ Shows real-time tumor prediction results with confidence scores and MRI scan vis
 
 ---
 
-## 👨‍⚕️ Doctor Dashboard
-Interactive healthcare dashboard displaying prediction details and downloadable reports.
+## 🧠 3D Brain Visualization
+Provides enhanced visualization of MRI brain structures and analysis outputs.
 
-<img width="100%" src="Images/Dashboard.png">
+<img width="100%" src="Images/3D-Preview.png">
 
 ---
 
@@ -65,13 +74,6 @@ Interactive healthcare dashboard displaying prediction details and downloadable 
 Automatically generated AI-powered medical report containing tumor analysis and recommendations.
 
 <img width="100%" src="Images/Report.png">
-
----
-
-## 🧠 3D Brain Visualization
-Provides enhanced visualization of MRI brain structures and analysis outputs.
-
-<img width="100%" src="Images/3D-Preview.png">
 
 ---
 
