@@ -1,1 +1,11 @@
-
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+streamlit
+pyngrok
+Pillow
+nibabel
+jupyter
+notebook
